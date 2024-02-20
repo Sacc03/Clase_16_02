@@ -1,7 +1,12 @@
 {
     "nombre_juego": "Juego Escape room",
-    "nombre_jugador": "Bodoque",
+    "nombre_jugador": "celente",
     "nivel": 1,
     "salud": 0,
-    "correo": ""
+    "correo": "",
+    "playerLocation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
 }
